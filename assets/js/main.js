@@ -181,5 +181,8 @@
 						$menu._hide();
 
 			});
-
+	function goTo(url){
+		window.location=url
+	}
+	window.goTo = goTo
 })(jQuery);
