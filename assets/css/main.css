@@ -2960,6 +2960,10 @@ input, select, textarea {
 							opacity: 0;
 						}
 
+						#menu ul div li {
+							float: left;
+						}
+
 		@media screen and (max-width: 736px) {
 
 			#header {
