@@ -1,10 +1,10 @@
 var array = [
   {
-    backgroundImg: "images/pic04.jpg",
-    title: "E-Commerce",
-    screenShot: "images/crwn-clothing1.png",
-    gH: "https://stevedoty.github.io/crwn-clothing/",
-    gHpages: "https://github.com/stevedoty/crwn-clothing",
+    backgroundImg: "images/pic09.jpg",
+    title: "Sorting Animator",
+    screenShot: "",
+    gH: "https://stevedoty.github.io/sorting-animator/",
+    gHpages: "https://github.com/stevedoty/sorting-animator",
   },
   {
     backgroundImg: "images/pic04.jpg",
@@ -14,11 +14,39 @@ var array = [
     gHpages: "https://github.com/stevedoty/crwn-clothing",
   },
   {
-    backgroundImg: "images/pic04.jpg",
-    title: "E-Commerce",
+    backgroundImg: "images/pic01.jpg",
+    title: "Rolodex",
+    screenShot: "",
+    gH: "https://stevedoty.github.io/Monsters-Rolodex/",
+    gHpages: "https://github.com/stevedoty/Monsters-Rolodex",
+  },
+  {
+    backgroundImg: "images/pic02.jpg",
+    title: "HTML Games",
     screenShot: "images/crwn-clothing1.png",
-    gH: "https://stevedoty.github.io/crwn-clothing/",
-    gHpages: "https://github.com/stevedoty/crwn-clothing",
+    gH: "https://stevedoty.github.io/html-games/",
+    gHpages: "https://github.com/stevedoty/html-games",
+  },
+  {
+    backgroundImg: "images/pic03.jpg",
+    title: "Davad Leather",
+    screenShot: "images/crwn-clothing1.png",
+    gH: "https://stevedoty.github.io/davad-leather/",
+    gHpages: "https://github.com/stevedoty/davad-leather",
+  },
+  {
+    backgroundImg: "images/pic04.jpg",
+    title: "Stock App",
+    screenShot: "images/crwn-clothing1.png",
+    gH: "https://stevedoty.github.io/stock-app/",
+    gHpages: "https://github.com/stevedoty/stock-app",
+  },
+  {
+    backgroundImg: "images/pic08.jpg",
+    title: "Todo App",
+    screenShot: "images/crwn-clothing1.png",
+    gH: "https://stevedoty.github.io/phone-todo/",
+    gHpages: "https://github.com/stevedoty/phone-todo",
   },
   {
     backgroundImg: "images/pic04.jpg",
@@ -26,7 +54,21 @@ var array = [
     screenShot: "images/crwn-clothing1.png",
     gH: "https://stevedoty.github.io/crwn-clothing/",
     gHpages: "https://github.com/stevedoty/crwn-clothing",
-  }
+  },
+  {
+    backgroundImg: "images/pic05.jpg",
+    title: "Chat App",
+    screenShot: "images/crwn-clothing1.png",
+    gH: "https://stevedoty.github.io/crwn-clothing/",
+    gHpages: "https://github.com/stevedoty/crwn-clothing",
+  },
+  {
+    backgroundImg: "images/pic06.jpg",
+    title: "Video App",
+    screenShot: "images/crwn-clothing1.png",
+    gH: "https://stevedoty.github.io/crwn-clothing/",
+    gHpages: "https://github.com/stevedoty/crwn-clothing",
+  },
 ];
 
 
