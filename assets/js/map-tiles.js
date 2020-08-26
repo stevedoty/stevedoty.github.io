@@ -84,7 +84,7 @@ var array = [
 
 function createArticle(item, i){
   var newTile = document.createElement('article');
-  newTile.class = "style6";
+  newTile.className = "style" + ((i % 6) + 1);
   var s = '<span class="image"><img src="'+item.backgroundImg+'" alt="" /></span>    <a><h2>'+item.title+'</h2><div class="content"><img id="project_screenshot" src="'+item.screenShot+'" alt="" /><p>'+item.summary+'</p><button class="tile-button" onclick="goTo('+item.gH+')">Run</button><button class="tile-button" onclick="goTo('+item.gHpages+')">Source</button></div></a>';
   newTile.innerHTML = s;
   return newTile;
