@@ -1,6 +1,6 @@
 var array = [
   {
-    summary:"",
+    summary:"Visualization of sorting algorithms",
     backgroundImg: "images/pic09.jpg",
     title: "Sorting Animator",
     screenShot: "",
@@ -8,15 +8,15 @@ var array = [
     gHpages: "https://github.com/stevedoty/sorting-animator",
   },
   {
-    summary:"",
+    summary:"E-commerce Website",
     backgroundImg: "images/pic04.jpg",
-    title: "E-Commerce",
+    title: "Crown Clothing",
     screenShot: "images/crwn-clothing1.png",
     gH: "https://stevedoty.github.io/crwn-clothing/",
     gHpages: "https://github.com/stevedoty/crwn-clothing",
   },
   {
-    summary:"",
+    summary:"Search engine application",
     backgroundImg: "images/pic01.jpg",
     title: "Rolodex",
     screenShot: "",
@@ -24,7 +24,7 @@ var array = [
     gHpages: "https://github.com/stevedoty/Monsters-Rolodex",
   },
   {
-    summary:"",
+    summary:"Various games written in HTML & JS",
     backgroundImg: "images/pic02.jpg",
     title: "HTML Games",
     screenShot: "images/crwn-clothing1.png",
@@ -32,7 +32,7 @@ var array = [
     gHpages: "https://github.com/stevedoty/html-games",
   },
   {
-    summary:"",
+    summary:"E-commerce website",
     backgroundImg: "images/pic03.jpg",
     title: "Davad Leather",
     screenShot: "images/crwn-clothing1.png",
@@ -40,7 +40,7 @@ var array = [
     gHpages: "https://github.com/stevedoty/davad-leather",
   },
   {
-    summary:"",
+    summary:"Stock tool for share/price ratio",
     backgroundImg: "images/pic04.jpg",
     title: "Stock App",
     screenShot: "images/crwn-clothing1.png",
@@ -48,7 +48,7 @@ var array = [
     gHpages: "https://github.com/stevedoty/stock-app",
   },
   {
-    summary:"",
+    summary:"Phone todo/note application",
     backgroundImg: "images/pic08.jpg",
     title: "Todo App",
     screenShot: "images/crwn-clothing1.png",
@@ -56,15 +56,15 @@ var array = [
     gHpages: "https://github.com/stevedoty/phone-todo",
   },
   {
-    summary:"",
+    summary:"Boilerplate summary",
     backgroundImg: "images/pic04.jpg",
-    title: "E-Commerce",
+    title: "Boilerplate",
     screenShot: "images/crwn-clothing1.png",
     gH: "https://stevedoty.github.io/crwn-clothing/",
     gHpages: "https://github.com/stevedoty/crwn-clothing",
   },
   {
-    summary:"",
+    summary:"Messaging application",
     backgroundImg: "images/pic05.jpg",
     title: "Chat App",
     screenShot: "images/crwn-clothing1.png",
@@ -72,7 +72,7 @@ var array = [
     gHpages: "https://github.com/stevedoty/crwn-clothing",
   },
   {
-    summary:"",
+    summary:"Video call application",
     backgroundImg: "images/pic06.jpg",
     title: "Video App",
     screenShot: "images/crwn-clothing1.png",
