@@ -97,5 +97,3 @@ function renderArticleTiles(){
   });
 }
 renderArticleTiles();
-
-// '<article class="style4"><span class="image"><img src="'+images/pic04.jpg+'" alt="" /></span><a><h2>'+E-Commerce+'</h2><div class="content"><img id="project_screenshot" src="images/crwn-clothing1.png" alt="" /><p>JS TS <b>|</b> CSS SASS <b>|</b> HTML <b>|</b> REACT REDUX <b>|</b> FIREBASE STRIPE <b>|</b> GIT CLI API</p><button class="tile-button" onclick="goTo(''+https://stevedoty.github.io/crwn-clothing/+'')">Run</button><button class="tile-button" onclick="goTo(''+https://github.com/stevedoty/crwn-clothing+'')">Source</button></div></a></article>'
