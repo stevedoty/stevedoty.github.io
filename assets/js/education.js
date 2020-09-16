@@ -1,7 +1,7 @@
 function addResume(){
   var resumeDiv = document.createElement('div');
   resumeDiv.className = "resume";
-  var inner = '<img src="images/SteveDotyResume2020.png" alt="" />';
+  var inner = '<img src="images/StevenDotyFullStackResume2020.png" alt="" />';
   resumeDiv.innerHTML = inner;
   return resumeDiv;
 }
